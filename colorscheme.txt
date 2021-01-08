@@ -1,0 +1,8 @@
+bg_light	: #dddddd
+bg_dark		: #1a1a2e
+sec_light	: #1a1a2e
+sec_dark	: #16213e
+txt_light	: #333333
+txt_dark	: #dddddd
+acc_light	: #f05454
+acc_dark	: #e94560
